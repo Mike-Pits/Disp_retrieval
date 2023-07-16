@@ -5,4 +5,4 @@ GPS psoitions at certain time, miles covered for last 24 hours, average speed, f
 ETA next destination or a way-point, sea/wind/ice conditions etc.
 These data will further be stored, pre-processed and analyzed for final submiting graphical results at a dash-board.
 
-The initial script is borrowed from Sven-Bo with huge thanks (https://pythonandvba.com/). It is then adapted to my particular circuymstances and conditions.
+The initial script is borrowed from Sven-Bo with huge thanks (https://pythonandvba.com/). It is then amended to my particular circumstances and conditions.
